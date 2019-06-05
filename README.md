@@ -1,6 +1,6 @@
 <img src="Images/header.png" height="450px"></img>
 
-Alibay is a coffee and tea marketplace created using Javascript technologies.
+Alibay is a E-commerce web application selling teas & coffees using Javascript technologies.
 
 ## Features
 - Users are able to add items to sell and purchase items using Stripe.
